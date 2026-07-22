@@ -13,6 +13,7 @@
 <i>I build at the intersection of intelligence, design & human experience.</i>
 
 </div>
+
 ---
 
 ## 🌻 About Me
@@ -169,13 +170,7 @@ Exploring mental health datasets through **data preprocessing, visualization, an
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ddisha-07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddisha-07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ddisha-07&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ddisha-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
