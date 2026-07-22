@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Disha!
+# 👋 Hey there, I'm Disha!
 
 ### 🤖 AI/ML Enthusiast • 💻 Developer • 🎨 UI/UX Explorer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+intelligent+%26+human-centered+experiences;Exploring+AI%2C+ML+%26+Full-Stack+Development;Turning+ideas+into+real-world+projects;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+intelligent+%26+human-centered+experiences;Exploring+AI%2C+ML+%26+Full-Stack+Development;Turning+ideas+into+real-world+projects;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -33,47 +33,52 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 # ⚡ Tech Stack
 
+<div align="center">
+
 ### 👩‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-</p>
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,mysql" />
-</p>
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI & Data
 
-<p>
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-4B8BBE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Context_Engineering-8A2BE2?style=for-the-badge" />
-</p>
+![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Generative AI](https://img.shields.io/badge/GENERATIVE_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/AGENTIC_AI-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-4B8BBE?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/CONTEXT_ENGINEERING-8A2BE2?style=for-the-badge)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
+<br/>
+
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### 🎨 Design & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
-</p>
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -81,6 +86,7 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🧠 Mentora
@@ -101,16 +107,18 @@ An AI-powered learning platform featuring **personalized Learning Journeys, bite
 
 > **Smart Expense Tracker**
 
-A smart finance application that helps users **track expenses, understand spending patterns, and manage their budgets**.
+A smart finance application that helps users **track expenses, understand spending patterns, and manage budgets**.
 
 `Full Stack` `Data Visualization` `UI/UX`
 
 [🔗 View Repository](YOUR_SPENDLY_REPOSITORY_URL)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### ✨ DewyGlow
@@ -131,13 +139,14 @@ A modern UI/UX project combining **visual storytelling, brand identity, and intu
 
 > **Using data to uncover patterns that matter**
 
-Exploring mental health datasets through **data preprocessing, visualization, and exploratory data analysis**.
+Exploring mental health datasets through **data preprocessing, visualization, and exploratory analysis**.
 
 `Python` `Pandas` `Data Analysis` `ML`
 
 [🔗 View Repository](YOUR_MENTAL_HEALTH_REPOSITORY_URL)
 
 </td>
+
 </tr>
 </table>
 
