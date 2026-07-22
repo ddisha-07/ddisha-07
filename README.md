@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontAlignY=35&animation=fadeIn" width="100%" />
+
 # 👋 Hey there, I'm Disha!
 
 ### 🤖 AI/ML Enthusiast • 💻 Developer • 🎨 UI/UX Explorer
@@ -11,7 +13,6 @@
 <i>I build at the intersection of intelligence, design & human experience.</i>
 
 </div>
-
 ---
 
 ## 🌻 About Me
