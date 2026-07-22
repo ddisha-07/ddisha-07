@@ -160,3 +160,79 @@ Exploring mental health datasets through **data preprocessing, visualization, an
 🧠 Learning   → AI/ML + Full-Stack Development
 📚 Improving  → Data Structures & Algorithms
 🎨 Creating   → Human-centered digital experiences
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ddisha-07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddisha-07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ddisha-07&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ddisha-07&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddisha-07/ddisha-07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddisha-07/ddisha-07/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ddisha-07/ddisha-07/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ddisha-07)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ddisha-07&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Learn. Build. Break. Debug. Repeat.
+
+<i>Building one idea at a time 🚀</i>
+
+<br/><br/>
+
+⭐ **Thanks for visiting my profile!**
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=&fontSize=0" width="100%" />
+
+</div>
